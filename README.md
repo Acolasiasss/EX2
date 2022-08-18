@@ -201,11 +201,17 @@ image{
 列出程序的最终运行结果及截图。
 手机端预览效果如下
 （默认）安徽省芜湖市
+
 ![LEBX {)M7A@FUHG)(P$ ~U](https://user-images.githubusercontent.com/111416724/185420297-f7f85563-9994-4d3c-9ea6-a62cc482bcc6.png)
+
 山东省青岛市
+
 ![29X(ARHL F4M5J_P8_NRJLX](https://user-images.githubusercontent.com/111416724/185420336-0895a626-8ebc-4cb3-8b37-2b9113824d3d.png)
+
 再随机测试一个
+
 ![T~4_TAR~JT12L26X5~83A5](https://user-images.githubusercontent.com/111416724/185420368-1ceaa796-c85b-47f5-87d4-14be63887eb1.png)
+
 
 ## 四、问题总结与体会
 
